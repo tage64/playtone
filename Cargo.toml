@@ -3,6 +3,7 @@ name = "playtone"
 version = "1.0.0"
 authors = ["Tage Johansson"]
 description = "Play a single (sine wave) tone forever"
+license = "GPL-3.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
